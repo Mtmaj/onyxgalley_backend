@@ -1,0 +1,25 @@
+{
+  "name": "onyxgallery_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "email-validator": "^2.0.4",
+    "express": "^4.18.2",
+    "form-data": "^4.0.0",
+    "mongoose": "^7.2.3",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.22",
+    "phone": "^3.1.37",
+    "uuid": "^9.0.0"
+  }
+}
